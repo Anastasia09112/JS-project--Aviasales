@@ -1,4 +1,4 @@
-# JS-project--youtube
+# JS-project Aviasales
  
  ![Снимок экрана 2020-12-15 в 16 12 03](https://user-images.githubusercontent.com/60625771/102219910-27297180-3ef1-11eb-9654-d07a4d23dbcb.png)
 
